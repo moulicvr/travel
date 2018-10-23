@@ -1,0 +1,57 @@
+body {
+/* padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;*/
+  background-color: #2ea2e7;
+  padding-top: 1em;
+  
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+  color: #00B7FF;
+}
+
+nav{
+	color: #247bdb;
+}
+.jumbotron{
+	
+	background-color: #247bdb;
+	
+	  padding-bottom: 0em;
+	/*color: #ffffff;*/
+}
+
+.page-header{
+	
+}
+footer1{
+       position: fixed;
+       text-align: center;
+       form:center;
+       bottom: 20px;
+       width: 100%;
+   }
+  
+  .footer-bottom{
+  background: #3d6277;
+ 
+   bottom: 0;
+}
+  .footer-bottom11{
+   position: absolute;
+ bottom: 0;
+ 
+  background: #31b610;
+  padding-bottom: 0em;
+}
+ @media (min-width: 576px) {
+  .jumbotron {
+    padding-bottom: 0; // or whatever you want the value to be, such as 1rem.
+}
+}
