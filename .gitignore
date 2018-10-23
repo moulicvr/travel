@@ -1,4 +1,10 @@
 node_modules/
 server.log
-readme.md
+routes/
 package-lock.json
+.jshintrc
+.project
+.settings/
+.sublime-project
+.tern-project
+ 
