@@ -7,4 +7,5 @@ package-lock.json
 .settings/
 .sublime-project
 .tern-project
+/travel
  
